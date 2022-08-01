@@ -11,4 +11,3 @@ NOTE: Music is provided in person, not uploaded for copy-right purposes.
 3. To activate the server, run
 ###`node mixtape_db.js`
 
-###Objects
