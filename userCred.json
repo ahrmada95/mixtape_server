@@ -1,0 +1,19 @@
+{
+    "usersCred": [
+        {
+            "id" : 1,
+            "username": "souBU",
+            "password": "Taipei101=" 
+        },
+        {
+            "id" : 2,
+            "username": "LANdor",
+            "password": "Findmeshells101=" 
+        },
+        {
+            "id" : 3,
+            "username": "Vyctery",
+            "password": "Givemeliberty101-" 
+        }
+    ] 
+}

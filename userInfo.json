@@ -1,0 +1,59 @@
+{
+    "usersInfo": [
+        {
+            "id" : 1,
+            "profilePic": "url",
+            "playLists": [ 1, 2, 3 ],
+            "friends": [ 2, 3 ],
+            "friendRequests": {
+                "sent": [ ],
+                "recieved": [ ]
+            },
+            "alerts": [
+                {
+                    "senderId": 2,
+                    "playListId": 4
+                },
+                {
+                    "senderId": 3,
+                    "playListId": 6
+                }
+            ] 
+        },
+
+        {
+            "id" : 2,
+            "profilePic": "url",
+            "playLists": [ 4, 5 ],
+            "friends": [ 1 ],
+            "friendRequests": {
+                "sent": [ 3 ],
+                "recieved": [ ]
+            },
+            "alerts": [
+                {
+                    "senderId": 1,
+                    "playListId": 3
+                }
+            ] 
+        },
+
+        {
+            "id" : 3,
+            "profilePic": "url",
+            "playLists": [ ],
+            "friends": [ 2, 3 ],
+            "friendRequests": {
+                "sent": [ ],
+                "recieved": [ 2 ]
+            },
+            "alerts": [
+                {
+                    "senderId": 1,
+                    "playListId": 3
+                }
+            ] 
+        }
+
+    ]
+}

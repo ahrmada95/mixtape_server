@@ -1,0 +1,283 @@
+{
+    "song": [
+        {
+            "id": 1,
+            "name": "Morning, Thinker",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 223000,
+            "src": "./music/Morning, Thinker.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Twisted on the Surface",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 192000,
+            "src": "./music/Twisted on the Surface.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Apex in TECHNO",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 318000,
+            "src": "./music/Morning, Thinker.mp3"
+        },
+        {
+            "id": 4,
+            "name": "RAY of Speed",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 193000,
+            "src": "./music/RAY of Speed.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Shining Highway",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 155000,
+            "src": "./music/Shining Highway.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Hyper Monkey Likes the Dance Floor",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 284000,
+            "src": "./music/Hyper Monkey Likes the Dance Floor.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Dropping Atoms",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 198000,
+            "src": "./music/Dropping Atoms.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Death to the King",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 176000,
+            "src": "./music/Death to the King.mp3"
+        },
+        {
+            "id": 9,
+            "name": "We Can See No.373",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 214000,
+            "src": "./music/We Can See No.373.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Over the Pain",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 198000,
+            "src": "./music/Over the Pain.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Goodbye, Thinker",
+            "album": "THE ANSWER - Armored Core Tribute Album",
+            "albumArt": "./music/album_art/armored_core_tribute.jpg",
+            "artist": "Mattias Häggström Gerdt",
+            "time": 198000,
+            "src": "./music/Goodbye, Thinker.mp3"
+        },
+        {
+            "id": 12,
+            "name": "I Just Know - New Immuunity Remix",
+            "album": "New Immunity REMIXES",
+            "albumArt": "./music/album_art/New Immunity Remix.jpg",
+            "artist": "Jacob Lee",
+            "time": 264000,
+            "src": "./music/I Just Know - New Immunity Remix.mp3"
+        },
+        {
+            "id": 13,
+            "name": "These Roots (ft.Stephen)",
+            "album": "These Roots",
+            "albumArt": "./music/album_art/These Roots.jpg",
+            "artist": "GRAY",
+            "time": 264000,
+            "src": "./music/These Roots (ft.Stephen).mp3"
+        },
+        {
+            "id": 14,
+            "name": "Habit - T-Mass Remix",
+            "album": "Habit Remixes",
+            "albumArt": "./music/album_art/Habit Remixes.jpg",
+            "artist": "Rain Man & Krysta Youngs",
+            "time": 269000,
+            "src": "./music/Habit (T-Mass Remix).mp3"
+        },
+        {
+            "id": 15,
+            "name": "Blue Skies - REVOKE Remix",
+            "album": "Blue Skies - the remixes",
+            "albumArt": "./music/album_art/Habit Remixes.jpg",
+            "artist": "Lenka",
+            "time": 206000,
+            "src": "./music/Blue Skies (REVOKE Remix).mp3"
+        },
+        {
+            "id": 16,
+            "name": "Can We Be Free",
+            "album": "Can We Be Free",
+            "albumArt": "./music/album_art/can_we_be_free.jpg",
+            "artist": "KUURO",
+            "time": 206000,
+            "src": "./music/Can We Be Free.mp3"
+        },
+        {
+            "id": 17,
+            "name": "Make a Sound",
+            "album": "Make a Sound",
+            "albumArt": "./music/album_art/make_a_sound.jpg",
+            "artist": "Autopilot Off",
+            "time": 224000,
+            "src": "./music/Make A Sound.mp3"
+        },
+        {
+            "id": 18,
+            "name": "All the Rage",
+            "album": "Hours",
+            "albumArt": "./music/album_art/hours.jpg",
+            "artist": "Autopilot Off",
+            "time": 217000,
+            "src": "./music/All the Rage.mp3"
+        },
+        {
+            "id": 19,
+            "name": "Hearteater",
+            "album": "Sacrifice to Venus",
+            "albumArt": "./music/album_art/sacrifice_to_venus.jpg",
+            "artist": "Emil Bulls",
+            "time": 240000,
+            "src": "./music/Hearteater.mp3"
+        },
+        {
+            "id": 20,
+            "name": "Divisionary",
+            "album": "ERRA",
+            "albumArt": "./music/album_art/erra.jpg",
+            "artist": "ERRA",
+            "time": 222000,
+            "src": "./music/Divisionary.mp3"
+        },
+        {
+            "id": 21,
+            "name": "the violent things",
+            "album": "under the silver of machines",
+            "albumArt": "./music/album_art/under_the_silver_of_machines.jpg",
+            "artist": "Last Winter",
+            "time": 200000,
+            "src": "./music/the violent things.mp3"
+        },
+        {
+            "id": 22,
+            "name": "Roulette",
+            "album": "Steal this Album!",
+            "albumArt": "./music/album_art/steal_this_album.jpg",
+            "artist": "System Of A Down",
+            "time": 202000,
+            "src": "./music/Roulette.mp3"
+        },
+        {
+            "id": 23,
+            "name": "Chop Suey!",
+            "album": "Toxicity",
+            "albumArt": "./music/album_art/toxicity.jpg",
+            "artist": "System Of A Down",
+            "time": 208000,
+            "src": "./music/Chop Suey!.mp3"
+        },
+        {
+            "id": 24,
+            "name": "When I See U",
+            "album": "Fantasia",
+            "albumArt": "./music/album_art/fantasia.jpg",
+            "artist": "Fantasia",
+            "time": 216000,
+            "src": "./music/When I See U.mp3"
+        },
+        {
+            "id": 25,
+            "name": "Besame Mucho",
+            "album": "Amor",
+            "albumArt": "./music/album_art/amor.jpg",
+            "artist": "Andrea Bocelli",
+            "time": 206000,
+            "src": "./music/Besame Mucho.mp3"
+        },
+        {
+            "id": 26,
+            "name": "Another Love",
+            "album": "Long Way Down",
+            "albumArt": "./music/album_art/long_way_down.jpg",
+            "artist": "Tom Odell",
+            "time": 247000,
+            "src": "./music/Another Love.mp3"
+        },
+        {
+            "id": 27,
+            "name": "Don't Call Me Baby (Mousse T. Remix)",
+            "album": "Mousse T & Super Disco Club",
+            "albumArt": "./music/album_art/mouse_t_&_super_disco_club.jpg",
+            "artist": "Madison Avenue",
+            "time": 247000,
+            "src": "./music/Don't Call Me Baby (Mouse T. Remix).mp3"
+        },
+        {
+            "id": 28,
+            "name": "Don't Call Me Baby (Mousse T. Remix)",
+            "album": "Mousse T & Super Disco Club",
+            "albumArt": "./music/album_art/mouse_t_&_super_disco_club.jpg",
+            "artist": "Madison Avenue",
+            "time": 175000,
+            "src": "./music/Don't Call Me Baby (Mouse T. Remix).mp3"
+        },
+        {
+            "id": 29,
+            "name": "Beyond",
+            "album": "Good Things",
+            "albumArt": "./music/album_art/good_things.jpg",
+            "artist": "Leon Bridges",
+            "time": 249000,
+            "src": "./music/Beyond.mp3"
+        },
+        {
+            "id": 30,
+            "name": "Morenita",
+            "album": "Morenita",
+            "albumArt": "./music/album_art/morenita.jpg",
+            "artist": "Röde",
+            "time": 161000,
+            "src": "./music/Morenita.mp3"
+        },
+        {
+            "id": 31,
+            "name": "Fast car",
+            "album": "Fast car",
+            "albumArt": "./music/album_art/fast_car.jpg",
+            "artist": "Tracy Chapman",
+            "time": 296000,
+            "src": "./music/Fast car.mp3"
+        }
+    ]
+}
