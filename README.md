@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# MixTape Server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Express server implementation for the MixTape project. This is required for functionality! 
 
-## Available Scripts
+NOTE: Music is provided in person, not uploaded for copy-right purposes.
+
+## To Run:
+
+1. First 
 
 In the project directory, you can run:
 
