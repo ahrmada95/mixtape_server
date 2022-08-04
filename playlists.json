@@ -29,6 +29,12 @@
             "id": 5,
             "name": "Andor's Track 2",
             "tracks": [27, 28, 29, 30, 31]
+        },
+
+        {
+            "id": 99,
+            "name": "DummyTape",
+            "tracks": [ 1 ]
         }
     ]
 }

@@ -49,7 +49,7 @@ app.get('/playlist/all', (request, result) => {
 }) 
 
 app.get('/playlist/:playlist_id', (request, result) => {
-    result.send(USER_INFO[(request.params.playlist_id) - 1])
+    result.send(PLAYLISTS[(request.params.playlist_id) - 1])
 }) 
 
 

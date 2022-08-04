@@ -53,7 +53,17 @@
                     "playListId": 3
                 }
             ] 
+        },
+        {
+            "id": 99,
+            "profilePic": "https://images.unsplash.com/photo-1522787126632-aa89815837ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "playLists": [99],
+            "firends": [ ],
+            "friendRequests": {
+                "sent": [ ],
+                "recieved": [ ]  
+            },
+            "alerts": [ ]
         }
-
     ]
 }
