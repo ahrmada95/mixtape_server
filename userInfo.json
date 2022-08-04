@@ -1,61 +1,7 @@
 {
     "usersInfo": [
         {
-            "id" : 1,
-            "profilePic": "url",
-            "playLists": [ 1, 2, 3 ],
-            "friends": [ 2, 3 ],
-            "friendRequests": {
-                "sent": [ ],
-                "recieved": [ ]
-            },
-            "alerts": [
-                {
-                    "senderId": 2,
-                    "playListId": 4
-                },
-                {
-                    "senderId": 3,
-                    "playListId": 6
-                }
-            ] 
-        },
-
-        {
-            "id" : 2,
-            "profilePic": "url",
-            "playLists": [ 4, 5 ],
-            "friends": [ 1 ],
-            "friendRequests": {
-                "sent": [ 3 ],
-                "recieved": [ ]
-            },
-            "alerts": [
-                {
-                    "senderId": 1,
-                    "playListId": 3
-                }
-            ] 
-        },
-
-        {
-            "id" : 3,
-            "profilePic": "url",
-            "playLists": [ ],
-            "friends": [ 2, 3 ],
-            "friendRequests": {
-                "sent": [ ],
-                "recieved": [ 2 ]
-            },
-            "alerts": [
-                {
-                    "senderId": 1,
-                    "playListId": 3
-                }
-            ] 
-        },
-        {
-            "id": 99,
+            "id": 1,
             "profilePic": "https://images.unsplash.com/photo-1522787126632-aa89815837ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
             "playLists": [99],
             "firends": [ ],
@@ -64,6 +10,58 @@
                 "recieved": [ ]  
             },
             "alerts": [ ]
+        },
+
+        {
+            "id" : 2,
+            "profilePic": "url",
+            "playLists": [ 2, 3, 4 ],
+            "friends": [ 3, 4 ],
+            "friendRequests": {
+                "sent": [ ],
+                "recieved": [ ]
+            },
+            "alerts": [
+                {
+                    "senderId": 3,
+                    "playListId": 5
+                }
+            ] 
+        },
+
+        {
+            "id" : 3,
+            "profilePic": "url",
+            "playLists": [ 5, 6 ],
+            "friends": [ 2 ],
+            "friendRequests": {
+                "sent": [ 3 ],
+                "recieved": [ ]
+            },
+            "alerts": [
+                {
+                    "senderId": 2,
+                    "playListId": 4
+                }
+            ] 
+        },
+
+        {
+            "id" : 4,
+            "profilePic": "url",
+            "playLists": [ ],
+            "friends": [ 2, 3 ],
+            "friendRequests": {
+                "sent": [ ],
+                "recieved": [ 3 ]
+            },
+            "alerts": [
+                {
+                    "senderId": 2,
+                    "playListId": 4
+                }
+            ] 
         }
+
     ]
 }
